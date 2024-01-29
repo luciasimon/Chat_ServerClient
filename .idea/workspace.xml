@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7c436ed-7757-4102-a1e2-b038d11596a7" name="Changes" comment="Logs antiestéticos eliminados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hilo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/2cb74228-7bdc-4ea1-87af-2caea1fb14c3_Practica_Chat_Daniel_Yuste.zip.4c3/Practica_Chat/src/HiloCliente.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bS0YtnJseiMcIxB9ovqFqsTDdx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USUARIO/Documents/2 DAM/PSP_U5/infoclima&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Chat_ServerClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c436ed-7757-4102-a1e2-b038d11596a7" name="Changes" comment="" />
+      <created>1706193226577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706193226577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FUNCIONA">
+      <option name="closed" value="true" />
+      <created>1706197763390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706197763390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FUNCIONA">
+      <option name="closed" value="true" />
+      <created>1706197853764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706197853764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cierre de clientes bien gestionado">
+      <option name="closed" value="true" />
+      <created>1706211670945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706211670945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cierre de clientes bien gestionado">
+      <option name="closed" value="true" />
+      <created>1706216798396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706216798396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="historial falso eliminado">
+      <option name="closed" value="true" />
+      <created>1706256865220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706256865220</updated>
+    </task>
+    <task id="LOCAL-00006" summary="colores más o menos">
+      <option name="closed" value="true" />
+      <created>1706259980178</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706259980178</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mensajes privados implementados">
+      <option name="closed" value="true" />
+      <created>1706304819110</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706304819110</updated>
+    </task>
+    <task id="LOCAL-00008" summary="historial implementado">
+      <option name="closed" value="true" />
+      <created>1706309282252</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706309282252</updated>
+    </task>
+    <task id="LOCAL-00009" summary="colores bien implementados">
+      <option name="closed" value="true" />
+      <created>1706375455753</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706375455753</updated>
+    </task>
+    <task id="LOCAL-00010" summary="se gestiona bien la salida de un cliente">
+      <option name="closed" value="true" />
+      <created>1706392107928</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706392107928</updated>
+    </task>
+    <task id="LOCAL-00011" summary="se gestiona bien la salida SALIR del cliente">
+      <option name="closed" value="true" />
+      <created>1706392541293</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706392541293</updated>
+    </task>
+    <task id="LOCAL-00012" summary="funciona correctamente">
+      <option name="closed" value="true" />
+      <created>1706393473847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706393473847</updated>
+    </task>
+    <task id="LOCAL-00013" summary="README hecho">
+      <option name="closed" value="true" />
+      <created>1706394540864</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706394540864</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Logs antiestéticos eliminados">
+      <option name="closed" value="true" />
+      <created>1706395221536</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706395221536</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Logs antiestéticos eliminados">
+      <option name="closed" value="true" />
+      <created>1706395466186</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706395466186</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FUNCIONA" />
+    <MESSAGE value="Cierre de clientes bien gestionado" />
+    <MESSAGE value="historial falso eliminado" />
+    <MESSAGE value="colores más o menos" />
+    <MESSAGE value="mensajes privados implementados" />
+    <MESSAGE value="historial implementado" />
+    <MESSAGE value="colores bien implementados" />
+    <MESSAGE value="se gestiona bien la salida de un cliente" />
+    <MESSAGE value="se gestiona bien la salida SALIR del cliente" />
+    <MESSAGE value="funciona correctamente" />
+    <MESSAGE value="README hecho" />
+    <MESSAGE value="Logs antiestéticos eliminados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logs antiestéticos eliminados" />
+  </component>
+</project>
